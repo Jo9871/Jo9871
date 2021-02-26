@@ -21,17 +21,34 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
 
- 
+### Languages  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
 </div>
+
 </td><td valign="top" width="33%">
+
+### Software  
+<div align="center">  
+<img style="margin: 10px" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png" alt="VSCode" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets" height="50" />  
+<img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sublime-text-3-512.png" alt="Sublime Text" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/adobe-creative-cloud-1855032-1571413.png" alt="Adobe Creative Cloud" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Extra  
+<div align="center">  
+<img style="margin: 10px" src="https://discord.js.org/static/logo-square.png" alt="Discord.JS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+
 </td></tr></table>  
 
 <br/>  
