@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Josh, a an A-Level student who likes to code in my freetime. 👨‍💻 Coding since 2020.</div>  
+### <div align="center">**I'm Josh, a an A-Level student who likes to code in my freetime. 👨‍💻 Coding since 2020.**</div>  
   
 
-- 🔭 I’m currently working on a discord bot and dashboard.  
+- 🤖 I’m currently working on a Discord Bot and Dashboard.  
   
 
-- 🌱 I’m currently coding in Javascript and HTML.  
+- 📃 I’m currently coding in Javascript and HTML.  
   
 
-- ❓  I am in love with coding Discord Bots!.
+- ❓  I really enjoy coding Discord Bots!.
   
 
   
@@ -31,11 +31,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 </div>
-
 </td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -72,8 +68,6 @@ You must checkout these projects!!<br/><br/>
 <a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a>
  
   
-
-![](https://hit.yhype.me/github/profile?user_id=79065725)
 
 
 
