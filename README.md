@@ -12,15 +12,13 @@
 - 📃 I’m currently coding in Javascript and HTML.  
   
 
-- ❓  I really enjoy coding Discord Bots!.
-  
-
-  
+- ❓  I really enjoy coding Discord Bots!.  
 
 <br/>  
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Languages  
@@ -50,22 +48,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 
 </td></tr></table>  
-
+</div>
 <br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Jo9871" target="_blank">
-<img src=https://img.shields.io/twitter/url?style=social alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://musicium.eu" target="_blank">
-<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/fS6qBSm" target="_blank">
-<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+ 
 
 <br/>  
 
@@ -89,9 +74,9 @@ You must checkout these projects!!<br/><br/>
 
 
 **Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+[https://discord.gg/SGzffe8CkZ](https://discord.gg/SGzffe8CkZ)
 
 **Website:**
-[https://bittmax.de/](https://bittmax.de/])
+[](])
 
 
