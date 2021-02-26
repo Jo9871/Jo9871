@@ -61,22 +61,26 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo9871&amp;layout=compact" alt="Top Langs"></a></p></div>  
+<p><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo9871&langs_count=8)(https://github.com/Jo9871/github-readme-stats" alt="Top Langs"></a></p></div>  
   
 ## Projects  
-You must checkout these projects!!<br/><br/>
+
 <div align="center">
 <p><a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a>
 <a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a>
- 
-  
+</div> 
 
+<div>&nbsp</div>
+<div>&nbsp</div>
+<div>&nbsp</div>
 
+<div align="center">
 
+## **Social Links**
 **Discord Server:**
 [https://discord.gg/SGzffe8CkZ](https://discord.gg/SGzffe8CkZ)
 
 **Website:**
-[](])
-
+[WIP]()
+</div>
 
