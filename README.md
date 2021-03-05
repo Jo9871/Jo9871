@@ -80,7 +80,7 @@
 ## **Social Links**
 **Discord Server:**
 [https://discord.gg/SGzffe8CkZ](https://discord.gg/SGzffe8CkZ)
-<div align="center"><img src="https://discordapp.com/api/guilds/814812523562926120/widget.png?style=banner3"/></div>
+<div align="center"><a href="https://discord.gg/SGzffe8CkZ" ><img src="https://discordapp.com/api/guilds/814812523562926120/widget.png?style=banner3"/></a></div>
 
 <div>&nbsp</div>
 
