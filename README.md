@@ -68,18 +68,18 @@
 
 <br/>  
 <div align="center">
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 <div align="center">
 <p><a href="https://github.com/Jo9871/Jo9871"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=Jo9871" alt="" /></a>
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 <div align="center">  
 <a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a></div> 
 </tr></table>  </div>
 <div align="center">
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 <div align="center">
 <p><a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a>
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 <div align="center">  
 <a href="https://github.com/Jo9871/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jo9871&repo=" alt="" /></a></div> 
 </tr></table></div>
