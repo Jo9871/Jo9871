@@ -61,7 +61,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jo9871&theme=graywhite&count_private=true"></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jo9871"></div>
 
-<div align="center"><img src="https://discordapp.com/api/guilds/814812523562926120/widget.png?style=banner4" alt="Discord Banner 4"/></div>
+
 
   
 ## Projects  
@@ -80,6 +80,9 @@
 ## **Social Links**
 **Discord Server:**
 [https://discord.gg/SGzffe8CkZ](https://discord.gg/SGzffe8CkZ)
+<div align="center"><img src="https://discordapp.com/api/guilds/814812523562926120/widget.png?style=banner3"/></div>
+
+<div>&nbsp</div>
 
 **Website:**
 [WIP]()
