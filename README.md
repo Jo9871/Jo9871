@@ -56,12 +56,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jo9871&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jo9871&show_icons=true&hide_border=true&theme=graywhite "></div>
+<div align="center"><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo9871&langs_count=10)(https://github.com/Jo9871/github-readme-stats&count_private=true" alt="Top Langs"></a></div>  
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jo9871&theme=graywhite&count_private=true"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jo9871"></div>
 
-<br/>  
 
-<div align="center">
-<p><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo9871&langs_count=8)(https://github.com/Jo9871/github-readme-stats" alt="Top Langs"></a></p></div>  
+
   
 ## Projects  
 
