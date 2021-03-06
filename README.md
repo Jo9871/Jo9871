@@ -9,7 +9,7 @@
 - 🤖 I’m currently working on a Discord Bot and Dashboard.  
   
 
-- 📃 I’m currently coding in Javascript and HTML.  
+- 📃 I’m currently coding in Javascript.  
   
 
 - ❓  I really enjoy coding Discord Bots!.  
@@ -28,6 +28,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+<img style="margin: 10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="Pug" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -38,6 +39,13 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets" height="50" />  
 <img style="margin: 10px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sublime-text-3-512.png" alt="Sublime Text" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/adobe-creative-cloud-1855032-1571413.png" alt="Adobe Creative Cloud" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -56,10 +64,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jo9871&show_icons=true&hide_border=true&theme=graywhite "></div>
+<div align="center"><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api?username=Jo9871&show_icons=true&hide_border=true&theme=graywhite "></a></div>
 <div align="center"><a href="https://github.com/Jo9871"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo9871&langs_count=10)(https://github.com/Jo9871/github-readme-stats&count_private=true" alt="Top Langs"></a></div>  
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jo9871&theme=graywhite&count_private=true"></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jo9871"></div>
+<div align="center"><a href="https://github.com/Jo9871"><img src="https://github-profile-trophy.vercel.app/?username=Jo9871&theme=graywhite&count_private=true"></a></div>
+<div align="center"><a href="https://wakatime.com/@Jo9871"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jo9871"></a></div>
 
 
 
