@@ -30,7 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
