@@ -1,5 +1,5 @@
 # Hi there 👋
-<a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+<a href="https://app.daily.dev/Jo9871" target="_blank">
     <img
       width="256"
       align="right"
